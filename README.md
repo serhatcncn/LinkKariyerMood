@@ -23,3 +23,6 @@ Designed a database model for the virtually integrated version of the popular we
 
 LinkedIn, Kariyet.net and Moodle were used as references when creating our application. In this context, we created a profile section for the user and the company based on the profile section found in all three applications. We added the social media section on LinkedIn to our application as a published. We have also integrated areas of interest and grouping into our application. We combined the user and company parts of Kariyer.net with an asset inherited from the user in our application as company user. LinkedIn and Kariyer.Net includes resume section. We have handled the resume separately in 3 entities: Achievement, Talent and Education. As in Moodle, we have added the schools, departments, courses, projects and course's grades to Education entity. As in LinkedIn and Kariyer.Net, we integrated companies' job ad sharings to our app. As in LinkedIn, users can save shared posts and job ads. Users can message among themselves as in LinkedIn or companies can send messages to people as in Kariyer.Net. That's why we added a messaging section to our app.
 
+---
+
+* Database files, project details and EER diagram in 'LinkKariyerMood' folder.
