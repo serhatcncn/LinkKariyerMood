@@ -25,4 +25,4 @@ LinkedIn, Kariyet.net and Moodle were used as references when creating our appli
 
 ---
 
-* Database files, project details and EER diagram in 'LinkKariyerMood' folder.
+* Database files, project details and EER Diagram in 'LinkKariyerMood' folder.
